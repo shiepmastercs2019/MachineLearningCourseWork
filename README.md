@@ -1,1 +1,3 @@
 # MachineLearningCourseWork
+
+本仓库主要用于机器学习同学们的论文收集。
